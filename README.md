@@ -1,0 +1,6 @@
+是一个电影推荐系统，基于数据集ml-1m，推荐算法包括，前端通过网页进行展示：
+UserCF（基于用户的协同过滤推荐算法）与UserCF-IIF
+ItemCF（基于项目的协同过滤推荐算法）与ItemCF-IUF
+IFM：矩阵相似度推荐算法
+MostPopular：流行度推荐
+随机推荐
